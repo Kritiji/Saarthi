@@ -1,9 +1,9 @@
-# Pregcare
+# Saarthi
 
 ![thubnail](https://user-images.githubusercontent.com/86178940/229025608-588fb824-483c-4f7a-8462-ad63d2158ea9.png)
 
 ## Introduction 
-Pregcare is a Flutter-based mobile application designed to provide assistance and guidance to expecting mothers and new parents. The application uses Google's Dialogflow for chatbot functionalities and Firebase for user authentication and database technologies. The purpose of the application is to provide a centralized platform for pregnant women and new parents to access vital information and tools related to pregnancy, childbirth, and child care.
+Saarthi is a Flutter-based mobile application designed to provide assistance and guidance to expecting mothers and new parents. The application uses Google's Dialogflow for chatbot functionalities and Firebase for user authentication and database technologies. The purpose of the application is to provide a centralized platform for pregnant women and new parents to access vital information and tools related to pregnancy, childbirth, and child care.
 
 
 ## Objectives
@@ -34,24 +34,6 @@ The objectives of the application are to provide personalized assistance and sup
 - Features are designed to be intuitive and easy to use
 - Enables users to access information and resources quickly and easily
 
-## Sustainable Development Goals
-Following are the 5 SDG goals satisfied by our Pregcare application.
-
-- SDG 2: Zero Hunger: Pregcare app helps womens by providing Nutritional information and guidance it also provides Meal planning. 
-
-- SDG 3: Good Health and Well-being: The pregcare application aligns with this goal as it provides a platform for pregnant women to access information and tools to support their health and well-being during pregnancy.
-
-- SDG 4: Quality Education: The application gives the education to the mother by giving access to reliable information.
-
-- SDG 5: Gender Equality: The pregcare application aligns with this goal as it aims to provide support and information to women during pregnancy, which can help to reduce gender-based inequalities in healthcare.
-
-- SDG 9: Industry, Innovation and Infrastructure: The pregcare application aligns with this goal as it uses innovative technologies, such as chatbot and smartwatch integration, to provide support to pregnant women.
-
-- SDG 10: Reduced Inequality: The pregcare application aligns with this goal as it aims to provide equal access to information and support to women during pregnancy.
-
-- SDG 17: Partnerships to achieve the Goal: The pregcare application aligns with this goal as it involves the use of multiple technologies, such as Flutter, Dialogflow, and Firebase, to achieve its objectives. It also involves the collaboration of various stakeholders, such as pregnant women, healthcare professionals, and app developers.
-
-
 ## Tech Stack
 - Flutter: A popular open-source mobile application development framework.
 - Firebase: A mobile application development platform that provides user authentication and database technologies.
@@ -59,10 +41,5 @@ Following are the 5 SDG goals satisfied by our Pregcare application.
 
 
 ## Conclusion
-The Pregcare application provides a centralized platform for pregnant women and new parents to access vital information and resources related to pregnancy, childbirth, and child care. The application's features are designed to be intuitive and easy to use, providing personalized assistance and support to users. The application has the potential to improve maternal and child health outcomes by providing easy access to vital information and resources.
+The Saarthi application provides a centralized platform for pregnant women and new parents to access vital information and resources related to pregnancy, childbirth, and child care. The application's features are designed to be intuitive and easy to use, providing personalized assistance and support to users. The application has the potential to improve maternal and child health outcomes by providing easy access to vital information and resources.
 
-## Contributors
-- [Kriti_Gautam]()
-- [Kritika_Mitawa]()
-- [Kajal_Kumari]()
-- [Gaurangi_Pareek]()
